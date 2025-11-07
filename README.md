@@ -5,7 +5,7 @@ The API supports full CRUD operations for movies.
 
 ---
 
-## ✅ Requirements
+##  Requirements
 
 Before running the project, make sure you have installed:
 
@@ -16,7 +16,7 @@ Before running the project, make sure you have installed:
 
 ---
 
-## ✅ Installation
+##  Installation
 
 Clone the project and install dependencies:
 
@@ -26,7 +26,7 @@ npm install
 
 ---
 
-## ✅ Environment Variables
+##  Environment Variables
 
 Create a new file called **.env** in the project root:
 
@@ -39,7 +39,7 @@ A template file **.env.example** is included for reference.
 
 ---
 
-## ✅ Running the Server
+##  Running the Server
 
 Start MongoDB (if not running):
 
@@ -73,7 +73,7 @@ You should see:
 
 ---
 
-## ✅ API Endpoints
+##  API Endpoints
 
 ### ➤ Get all movies
 ```
@@ -147,7 +147,7 @@ curl -X DELETE http://localhost:3000/api/movies/MOVIE_ID
 
 ---
 
-## ✅ Project Structure
+##  Project Structure
 
 ```
 ws5-movie-api/
@@ -162,7 +162,7 @@ ws5-movie-api/
 
 ---
 
-## ✅ Notes
+##  Notes
 
 - `.env` is **not** included in the repository (ignored with `.gitignore`).
 - `.env.example` shows required environment variables.
@@ -170,6 +170,6 @@ ws5-movie-api/
 
 ---
 
-## ✅ License
+##  License
 
 This project is created for educational purposes as part of the WS5 assignment.
